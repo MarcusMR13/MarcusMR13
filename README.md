@@ -1,6 +1,5 @@
 ## Olá! eu sou o Marcus Marques!
 
-- 🔭 Hoje trabalho como Técnico em TI no Hospital de Osório
 - 🌱 Estou atualmente estudando Front-End ( HTML, CSS && JS )
 - 💻 Possuo interesse também em futuramente ir para o back-end por ja ter estudado C && Dart
 
